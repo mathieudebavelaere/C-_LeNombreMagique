@@ -1,0 +1,14 @@
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net8.0/Le_nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net8.0/Le_nombre_magique.AssemblyInfoInputs.cache
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net8.0/Le_nombre_magique.AssemblyInfo.cs
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net8.0/Le_nombre_magique.csproj.CoreCompileInputs.cache
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/bin/Debug/net8.0/Le_nombre_magique
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/bin/Debug/net8.0/Le_nombre_magique.deps.json
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/bin/Debug/net8.0/Le_nombre_magique.runtimeconfig.json
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/bin/Debug/net8.0/Le_nombre_magique.dll
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/bin/Debug/net8.0/Le_nombre_magique.pdb
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net8.0/Le_nombre_magique.dll
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net8.0/refint/Le_nombre_magique.dll
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net8.0/Le_nombre_magique.pdb
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net8.0/Le_nombre_magique.genruntimeconfig.cache
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net8.0/ref/Le_nombre_magique.dll

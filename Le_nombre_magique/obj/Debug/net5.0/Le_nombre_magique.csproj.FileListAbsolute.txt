@@ -1,0 +1,4 @@
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net5.0/Le_nombre_magique.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net5.0/Le_nombre_magique.AssemblyInfoInputs.cache
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net5.0/Le_nombre_magique.AssemblyInfo.cs
+/Users/mathieudebavelaere/Documents/Udemy_C#_.NET/Le_nombre_magique/obj/Debug/net5.0/Le_nombre_magique.csproj.CoreCompileInputs.cache

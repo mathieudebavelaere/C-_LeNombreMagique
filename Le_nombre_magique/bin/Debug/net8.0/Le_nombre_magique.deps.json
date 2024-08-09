@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Le_nombre_magique/1.0.0": {
+        "runtime": {
+          "Le_nombre_magique.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Le_nombre_magique/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
